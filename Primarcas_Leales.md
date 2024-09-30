@@ -55,4 +55,4 @@ Vulkan era conocido por su empatía y amor por la humanidad. Líder de los **Sal
 [![Primarch-Vulkan.webp](https://i.postimg.cc/Y2f9DwdG/Primarch-Vulkan.webp)](https://postimg.cc/Cd5Sd9TS)
 
 ### Primarcas Traidores
-Este es el enlace para poder ver a los [primarcas traidores](primarcas_traidores.md)
+Este es el enlace para poder ver a los [primarcas traidores](Primarcas_Traidores.md)
