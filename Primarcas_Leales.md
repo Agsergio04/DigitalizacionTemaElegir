@@ -2,7 +2,7 @@
 
 El **universo de Warhammer 40,000** es vasto, oscuro y sombrío. Ambientado en el milenio 41, la humanidad está al borde de la extinción, atrapada en una guerra perpetua contra **Xenos**, **herejes** y las monstruosas criaturas del **Caos**. La galaxia es un lugar hostil, lleno de amenazas tanto internas como externas, y solo el **Emperador de la Humanidad**, quien yace en su Trono Dorado, sostiene el frágil Imperio.
 
-![Emperador de la Humanidad](https://via.placeholder.com/400x200)
+![Emperador de la Humanidad](![image](https://github.com/user-attachments/assets/a9600772-fcee-420c-b3e8-891b9036dc16))
 
 El Imperio está en constante lucha por sobrevivir, defendido por sus ejércitos: la **Guardia Imperial**, los **Astartes** (mejor conocidos como Marines Espaciales) y los **Caballeros Grises**. Pero la mayor amenaza proviene de traiciones internas que buscan desestabilizar el frágil equilibrio del Imperio.
 
