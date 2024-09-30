@@ -56,3 +56,7 @@ Conocido como **Night Haunter**, Konrad Curze tenía una visión nihilista y osc
 
 ### Primarcas Leales
 Este es  el enlace para poder ver a los [primarcas leales](Primarcas_Leales.md)
+
+#### Introduccion
+Por si quieres ver la [introduccion sobre Warhammer 40k](README.md) para poder entender un poco mas el contexto
+
