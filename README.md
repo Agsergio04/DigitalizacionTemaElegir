@@ -1,7 +1,7 @@
 # Primarcas Leales y Traidores de Warhammer 40k
 El **universo de Warhammer 40,000** es vasto, oscuro y sombrío. Ambientado en el milenio 41, la humanidad está al borde de la extinción, atrapada en una guerra perpetua contra **Xenos**, **herejes** y las monstruosas criaturas del **Caos**. La galaxia es un lugar hostil, lleno de amenazas tanto internas como externas, y solo el **Emperador de la Humanidad**, quien yace en su Trono Dorado, sostiene el frágil Imperio.
 
-![Emperador de la Humanidad](![image](https://github.com/user-attachments/assets/ac01ae0c-972a-487b-855d-a7fd75337a55))
+[![Emperador de la Humanidad](https://i.postimg.cc/KYyDbbyX/descarga.jpg)](https://postimg.cc/TKCDjZwQ)
 
 El Imperio está en constante lucha por sobrevivir, defendido por sus ejércitos: la **Guardia Imperial**, los **Astartes** (mejor conocidos como Marines Espaciales) y los **Caballeros Grises**. Pero la mayor amenaza proviene de traiciones internas que buscan desestabilizar el frágil equilibrio del Imperio.
 
