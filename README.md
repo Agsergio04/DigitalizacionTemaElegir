@@ -8,5 +8,5 @@ El Imperio está en constante lucha por sobrevivir, defendido por sus ejércitos
 ## ¿Qué son los Primarcas?
 Los **Primarcas** son los hijos genéticamente creados del Emperador, seres superhumanos de poder inmenso, concebidos para liderar las grandes legiones de Marines Espaciales. Cada uno fue diseñado para ser perfecto en algún aspecto, ya sea en la guerra, el liderazgo o la estrategia. Sin embargo, no todos los Primarcas permanecieron leales a su padre.
 
-##Enlaces de interes
+## Enlaces de interes
 Aqui puedes ver a los **[primarcas leales](Primarcas_Leales.md)**  o si quieres ver a los **[primarcas traidores](Primarcas_Traidores.md)**
